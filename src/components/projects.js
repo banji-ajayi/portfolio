@@ -12,7 +12,7 @@ class Projects extends Component {
         return (
             <div className="projects">
         
-         <Card shadow={4} style={{minWidth :'420', margin : 'auto'}}>
+         <Card shadow={4} style={{minWidth :'400', margin : 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', 
             background: 'url(https://christianliebel.com/wp-content/uploads/2016/02/Angular2-825x510.png) center/cover'}}>
             <div className='projectNo'>Angular Projects #2 </div>
@@ -30,7 +30,7 @@ class Projects extends Component {
             </CardMenu>
             </Card>
 
-            <Card shadow={4} style={{minWidth :'420', margin : 'auto'}}>
+            <Card shadow={4} style={{minWidth :'400', margin : 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', 
             background: 'url(https://christianliebel.com/wp-content/uploads/2016/02/Angular2-825x510.png) center/cover'}}>
             <div className='projectNo'>Angular Projects #1 </div>
@@ -53,7 +53,7 @@ class Projects extends Component {
         } else if(this.state.activeTab === 1 ) {
             return (
                 <div className="projects">
-        <Card shadow={4} style={{minWidth :'420', margin : 'auto'}}>
+        <Card shadow={4} style={{minWidth :'400', margin : 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', 
             background: 'url(https://cdn-images-1.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png) center/cover'}}>
             <div className='projectNo'>React Projects #1 </div>
@@ -70,7 +70,7 @@ class Projects extends Component {
             </CardMenu>
         </Card>
 
-        <Card shadow={4} style={{minWidth :'420', margin : 'auto'}}>
+        <Card shadow={4} style={{minWidth :'400', margin : 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', 
             background: 'url(https://cdn-images-1.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png) center/cover'}}>
             <div className='projectNo'>React Projects #1 </div>
