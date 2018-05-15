@@ -91,8 +91,18 @@ class Resume extends Component {
                     />
 
                     <Skills
-                    skill="Angular"
+                    skill="Angular 2"
+                    progress={80}
+                    />
+
+                     <Skills
+                    skill="Angular 4"
                     progress={75}
+                    />
+
+                     <Skills
+                    skill="Angular 5"
+                    progress={70}
                     />
 
                     <Skills
