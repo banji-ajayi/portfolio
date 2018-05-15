@@ -15,7 +15,7 @@ class Projects extends Component {
          <Card shadow={4} style={{minWidth :'400', margin : 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', 
             background: 'url(https://christianliebel.com/wp-content/uploads/2016/02/Angular2-825x510.png) center/cover'}}>
-            <div className='projectNo'>Angular Projects #2 </div>
+            <div className='projectNo'>Angular Projects #1 </div>
             </CardTitle>
             <CardText>Davids Radio Web Application - (Built with Angular and Firebase) </CardText>
             <CardActions border> 
@@ -33,7 +33,7 @@ class Projects extends Component {
             <Card shadow={4} style={{minWidth :'400', margin : 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', 
             background: 'url(https://christianliebel.com/wp-content/uploads/2016/02/Angular2-825x510.png) center/cover'}}>
-            <div className='projectNo'>Angular Projects #1 </div>
+            <div className='projectNo'>Angular Projects #2 </div>
             </CardTitle>
             <CardText>Andrew's Clothing - (Ecommerce Frontend developed with Angular) </CardText>
             <CardActions border> 
@@ -53,7 +53,7 @@ class Projects extends Component {
         } else if(this.state.activeTab === 1 ) {
             return (
                 <div className="projects">
-        <Card shadow={4} style={{minWidth :'400', margin : 'auto'}}>
+        <Card shadow={4} style={{minWidth :'300', margin : 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', 
             background: 'url(https://cdn-images-1.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png) center/cover'}}>
             <div className='projectNo'>React Projects #1 </div>
@@ -70,10 +70,10 @@ class Projects extends Component {
             </CardMenu>
         </Card>
 
-        <Card shadow={4} style={{minWidth :'400', margin : 'auto'}}>
+        <Card shadow={4} style={{minWidth :'300', margin : 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', 
             background: 'url(https://cdn-images-1.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png) center/cover'}}>
-            <div className='projectNo'>React Projects #1 </div>
+            <div className='projectNo'>React Projects #2 </div>
             </CardTitle>
             <CardText>Mobile Flashcards - ( created with React Native to set Quizzes for Study Purposes  ) </CardText>
             <CardActions border> 
