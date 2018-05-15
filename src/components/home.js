@@ -17,11 +17,11 @@ class Home extends Component {
            <p>NodeJs | Angular | React | React Native | Mongodb | MySQL |  Express | Rest APIs | Firebase </p>
            <div className= "social-links">
            {/* LinkedIn  */}
-           <a href="http://linkedin.com"  rel="noopener noreferrer" target="_blank">
+           <a href="https://www.linkedin.com/in/femi-banji-ajayi-0a68765a/"  rel="noopener noreferrer" target="_blank">
            <i className="fa fa-linkedin-square"  aria-hidden="true" />
             </a>
          
-           <a href="http://githubcom"  rel="noopener noreferrer" target="_blank">
+           <a href="https://github.com/banji-ajayi"  rel="noopener noreferrer" target="_blank">
            <i className="fa fa-github-square"  aria-hidden="true" />
            </a>
            </div>
