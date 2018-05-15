@@ -55,7 +55,7 @@ class Projects extends Component {
                 <div className="projects">
         <Card shadow={4} style={{minWidth :'300', margin : 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', 
-            background: 'url(https://cdn-images-1.medium.com/max/1200/1*WA_9JsyqFkge2HwYKcdJQw.png) center/cover'}}>
+            background: 'url(https://cdn-images-1.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png) center/cover'}}>
             <div className='projectNo'>React Projects #1 </div>
             </CardTitle>
             <CardText>My Reads - ( Developed with React to show the current state of books read by a user ) </CardText>
@@ -72,7 +72,7 @@ class Projects extends Component {
 
         <Card shadow={4} style={{minWidth :'300', margin : 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', 
-            background: 'url(https://cdn-images-1.medium.com/max/1200/1*WA_9JsyqFkge2HwYKcdJQw.png) center/cover'}}>
+            background: 'url(https://cdn-images-1.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png) center/cover'}}>
             <div className='projectNo'>React Projects #2 </div>
             </CardTitle>
             <CardText>Mobile Flashcards - ( created with React Native to set Quizzes for Study Purposes  ) </CardText>
